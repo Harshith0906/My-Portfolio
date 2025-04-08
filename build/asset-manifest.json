@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bda3319f.css",
+    "main.js": "/static/js/main.7ff65df6.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/suicide.png": "/static/media/suicide.ad0cafde95ab553aab2e.png",
+    "static/media/emotion.png": "/static/media/emotion.8b21ded640ae0b1cce01.png",
+    "static/media/logo.png": "/static/media/logo.a03b80670b1708dcb1c4.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.c3f499d7cf5b382bf7b8.png",
+    "static/media/chatify.png": "/static/media/chatify.2725763c0af90de863b0.png",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/blog.jpg": "/static/media/blog.63bd5e539c2307b973f4.jpg",
+    "static/media/College_CV.pdf": "/static/media/College_CV.508b91dfe0b5c017b8ef.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/my_image.jpg": "/static/media/my_image.27fb9cca3639494c4801.jpg",
+    "static/media/my_image2.jpg": "/static/media/my_image2.50b91bc542ac0f7dca0c.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.bda3319f.css.map": "/static/css/main.bda3319f.css.map",
+    "main.7ff65df6.js.map": "/static/js/main.7ff65df6.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda3319f.css",
+    "static/js/main.7ff65df6.js"
+  ]
+}
